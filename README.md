@@ -1,9 +1,14 @@
 ### Hi there I am Saugata Dey,
-As an Software Engineer with 2.3+ years of experience, I have a knowledge in Java Backend Development , Spring Boot, Spring-MVC, Hibernate-ORM (Spring Data JPA), Microservices, API Gateway, Eureka Server, Feign Client, REST API, Docker, OpenAPI Swagger, RPA, UiPath. 
-I'm also proficient in working with databases like MySQL, which enables me to manage data effectively.
-I collaborated closely with the client product leadership team to ensure that the application met their specific requirements and standards.
-With strong attention to detail and a commitment to delivering high-quality software solutions, I am confident in my ability to meet the needs of clients and stakeholders.
-I bring a commitment to quality, collaboration, and continuous learning.
+- As an Software Engineer with 2.3+ years of experience, I have a knowledge in Java Backend Development , Spring Boot, Spring-MVC, Hibernate-ORM (Spring Data JPA), Microservices, API Gateway, Eureka Server, Feign 
+  Client, REST API, Docker, OpenAPI Swagger, RPA, UiPath.
+  
+- I'm also proficient in working with databases like MySQL, which enables me to manage data effectively.
+  
+- I collaborated closely with the client product leadership team to ensure that the application met their specific requirements and standards.
+  
+- With strong attention to detail and a commitment to delivering high-quality software solutions, I am confident in my ability to meet the needs of clients and stakeholders.
+  
+- I bring a commitment to quality, collaboration, and continuous learning.
 
 <!--
 **SaugataDey1/SaugataDey1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
